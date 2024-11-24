@@ -81,7 +81,7 @@ char	*get_next_line(int fd)
 	char		*line;
 	char		*buffer;
 
-	if (fd < 0 || BUFFER_SIZE <= 0)
+	if (fd < 0 || BUFFER_SIZE <= 0 || BUFFER_SIZE > 2147483647)
 		return (NULL);
 	buffer = (char *)malloc((BUFFER_SIZE * sizeof(char)) + 1);
 	if (!buffer)
