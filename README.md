@@ -1,3 +1,4 @@
+<a href="https://github.com/bnetal77a/ft_printf.git">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/ft_printfm.png)</a>
 <div align="center">
 	
 <h1 align="center">
@@ -10,7 +11,7 @@
 	<span> · </span>
 	<a href="#-testing">Testing</a>
 </h3>
-<a href="https://github.com/bental77a/push_swap"><img src="https://raw.githubusercontent.com/mcombeau/mcombeau/main/42_badges/push_swape.png" alt="42 Badge" /></a>
+
 ---
 <label>
 	<img alt="125" style="width: 100px;height: 70px" src="https://github.com/simon-zerisenay/simon-zerisenay/blob/main/125.png"/>
