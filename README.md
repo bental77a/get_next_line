@@ -9,12 +9,12 @@
 	<a href="#%EF%B8%8F-usage">Usage</a>
 	<span> · </span>
 	<a href="#-testing">Testing</a>
-<img alt="125" style="width: 100px;height: 70px" src="https://github.com/simon-zerisenay/simon-zerisenay/blob/main/125.png"/>
 </h3>
 ---
 <label>
 	<a href="https://github.com/bnetal77a/get_next_line">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/get_next_linem.png)</a>
 	<h2> Score </h2>	
+	<img alt="125" style="width: 100px;height: 70px" src="https://github.com/simon-zerisenay/simon-zerisenay/blob/main/125.png"/>
 </label>
 ## 💡 About the project
 
