@@ -1,9 +1,9 @@
-<a href="https://github.com/bnetal77a/ft_printf.git">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/ft_printfm.png)</a>
 <div align="center">
 	
 <h1 align="center">
 	📖 get_next_line
 </h1>
+<a href="https://github.com/bnetal77a/ft_printf.git">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/ft_printfm.png)</a>
 <h3 align="center">
 	<a href="#%EF%B8%8F-about">About</a>
 	<span> · </span>
