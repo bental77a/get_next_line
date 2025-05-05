@@ -1,4 +1,4 @@
-<a href="https://github.com/bnetal77a/get_next_line">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/get_next_linem.png)</a>
+<a align="center" href="https://github.com/bnetal77a/get_next_line">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/get_next_linem.png)</a>
 
 <div align="center">
 	
