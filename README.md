@@ -1,10 +1,10 @@
+<a href="https://github.com/bnetal77a/get_next_line">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/get_next_linem.png)</a>
+
 <div align="center">
 	
 <h1 align="center">
 	📖 get_next_line
 </h1>
-
-<a href="https://github.com/bnetal77a/get_next_line">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/get_next_linem.png)</a>
 <h3 align="center">
 	<a href="#%EF%B8%8F-about">About</a>
 	<span> · </span>
