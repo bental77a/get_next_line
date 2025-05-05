@@ -1,5 +1,3 @@
-<a align="center" href="https://github.com/bnetal77a/get_next_line">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/get_next_linem.png)</a>
-
 <div align="center">
 	
 <h1 align="center">
@@ -12,7 +10,7 @@
 	<span> · </span>
 	<a href="#-testing">Testing</a>
 </h3>
-
+<a href="https://github.com/bnetal77a/get_next_line">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/get_next_linem.png)</a>
 ---
 <label>
 	<h2> Score </h2>	
