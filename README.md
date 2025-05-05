@@ -13,10 +13,6 @@
 
 ---
 <a href="https://github.com/bnetal77a/ft_printf.git">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/ft_printfm.png)</a>
-<label>
-	<img alt="125" style="width: 100px;height: 70px" src="https://github.com/simon-zerisenay/simon-zerisenay/blob/main/125.png"/>
-	<h2> Score </h2>	
-</label>
 ## 💡 About the project
 
 > _The aim of this project is to make you code a function that returns a line, read from a file descriptor._
